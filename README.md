@@ -14,3 +14,7 @@ a resume web based hexo, modified by others
 
 
 ### 导入theme
+
+
+
+### 运行
