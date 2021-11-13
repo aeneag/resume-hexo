@@ -8,3 +8,5 @@ a resume web based hexo, modified by others
 
 
 ## 使用说明
+
+### 新建hexo项目
