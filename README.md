@@ -17,7 +17,7 @@ Due to this theme and the original theme has a big change, please download the s
 
 ## Get Started
 
-First of all, this project [https://github.com/aeneag/resume-hexo] (https://github.com/aeneag/resume-hexo) is hexo project, if you don't want to use this, you can create a new hexo project.
+First of all, this project [https://github.com/aeneag/resume-hexo](https://github.com/aeneag/resume-hexo) is hexo project, if you don't want to use this, you can create a new hexo project.
 
 ### New Hexo project
 
@@ -33,13 +33,15 @@ we can use`hexo s`to run the proj，，and improt [source code ](https://github.
 
 Download the theme source code, import it to thems, and set the 'theme' to 'resume' in the '_config.yml' file.
 
-### 
-
 ```
 hexo s
 ```
 
-If you successfully run the import Resume theme, you will see the resume page. Please refer to: [https://dxinxia.icu](https://dxinxia.icu)
+If you successfully run the import Resume theme, you will see the resume page. 
+
+Please refer to: [https://dxinxia.icu](https://dxinxia.icu)
+
+![example](images/page.png)
 
 # resume-hexo 使用说明
 
@@ -82,6 +84,10 @@ npm i
 ```
 hexo s
 ```
+
+如果成功运行了，那么会看到简历界面
+
+参考: [https://dxinxia.icu](https://dxinxia.icu)
 
 # END
 
