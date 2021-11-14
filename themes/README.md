@@ -7,7 +7,7 @@
 
 This folder holds the theme folders of Hexo, such as Next, Butterfly, etc., stored here
 
-> note: this folder to download [resume - theme] (https://github.com/aeneag/resume-theme) to the folder
+> note: this folder to download [resume - theme](https://github.com/aeneag/resume-theme) to the folder
 
 
 
