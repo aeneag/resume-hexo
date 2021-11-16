@@ -4,7 +4,7 @@ This project is based on the Hexo-driven Resume page, The original author[https:
 * The UI is modified
 * Support [Valine](https://valine.js.org) comments, email alerts, etc
 
-Resume page [https://dxinxia.icu](https://dxinxia.icu)
+Resume page [https://dxinxia.top](https://dxinxia.top)
 
 Personal blog [https://aeneag.xyz](https://aeneag.xyz)
 
@@ -39,7 +39,7 @@ hexo s
 
 If you successfully run the import Resume theme, you will see the resume page. 
 
-Please refer to: [https://dxinxia.icu](https://dxinxia.icu)
+Please refer to: [https://dxinxia.top](https://dxinxia.top)
 
 ![example](images/page.png)
 
@@ -50,7 +50,7 @@ Please refer to: [https://dxinxia.icu](https://dxinxia.icu)
 * 修改了页面UI
 * 支持[Valine](https://valine.js.org)评论，邮箱提醒等
 
-简历页面[https://dxinxia.icu](https://dxinxia.icu)
+简历页面[https://dxinxia.top](https://dxinxia.top)
 
 个人博客[https://aeneag.xyz](https://aeneag.xyz)
 
@@ -87,7 +87,7 @@ hexo s
 
 如果成功运行了，那么会看到简历界面
 
-参考: [https://dxinxia.icu](https://dxinxia.icu)
+参考: [https://dxinxia.top](https://dxinxia.top)
 
 # END
 
