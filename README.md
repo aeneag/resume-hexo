@@ -1,9 +1,3 @@
-
-
-
-
-
-
 # Update 2022/11/9
 
 ### 新建hexo项目
@@ -27,6 +21,7 @@ npm i
 ```
 hexo s
 ```
+这里也许会出错，因为有一个评论系统，在主题源码config配置文件里，需要添加一个id和key，可以自行申请,相关链接-->[教程](https://blog.csdn.net/aeneag/article/details/121330002)
 
 如果成功运行了，那么会看到简历界面
 
