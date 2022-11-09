@@ -1,4 +1,37 @@
+
+
+
+
+
+
+# Update 2022/11/9
+
+### 新建hexo项目
+
+```
+npm install -g hexo-cli
+hexo init my_resume
+npm i
+```
+
+新建hexo后，可以`hexo s`运行一下，看看是否出错
+
+- 导入[本站源码](https://github.com/aeneag/resume-hexo)**source**文件夹下的页面文件
+
+### 导入主题
+
+下载主题源码，导入到themes文件夹下，修改`_config.yml`文件中 `theme` 配置为`resume`
+
+### 运行
+
+```
+hexo s
+```
+
+如果成功运行了，那么会看到简历界面
+
 # resume-hexo instructions
+
 This project is based on the Hexo-driven Resume page, The original author[https://github.com/xaoxuu/resume-docs](https://github.com/xaoxuu/resume-docs),and the resume theme is modified on the basis of [https://github.com/xaoxuu/hexo-theme-resume](https://github.com/xaoxuu/hexo-theme-resume).
 
 * The UI is modified
